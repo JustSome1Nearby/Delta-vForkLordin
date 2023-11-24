@@ -1,4 +1,15 @@
 - type: construction
+  name: RobustQuiver
+  id: ImprovisedQuiver
+  graph: ImprovisedQuiver
+  startNode: start
+  targetNode: ImprovisedQuiver
+  category: construction-category-weapons
+  description: A shoddily constructed quiver.
+  icon: { sprite: Clothing/Belt/quiver.rsi, state: icon }
+  objectType: Item
+  
+- type: construction
   name: glass shiv
   id: Shiv
   graph: Shiv
