@@ -1,5 +1,5 @@
 - type: construction
-  name: RobustQuiver
+  name: quiver
   id: ImprovisedQuiver
   graph: ImprovisedQuiver
   startNode: start
