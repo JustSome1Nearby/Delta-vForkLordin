@@ -11,6 +11,9 @@
     - map: [ "enum.StorageContainerVisualLayers.Fill" ]
       visible: false
   - type: Clothing
+  - type: Construction
+    graph: ImprovisedQuiver
+    node: ImprovisedQuiver
   - type: Storage
     capacity: 150
     whitelist:
